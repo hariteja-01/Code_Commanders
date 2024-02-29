@@ -69,4 +69,4 @@ Number: [CBP02] Title: [Air and water quality index and environment monitoring]
                         </div>
                         
 **for full source code and web_page please open this link;
-[https://hariteja-01.github.io/Code_Commanders/](url)**
+https://hariteja-01.github.io/Code_Commanders/(url)**

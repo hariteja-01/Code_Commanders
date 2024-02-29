@@ -1,16 +1,17 @@
 # Code_Commanders
-//This repository will explain all the ideas of our team in detail.
+
 **Problem Statement**
 
 Number: [CBP02] Title: [Air and water quality index and environment monitoring]
 
-**Ideas and Project Detail:**_
+**Ideas and Project Detail:**
 
 [The goal is to promote collective efforts in preventing and controlling air and water pollution due to anthropogenic activities. This is achieved through the development and use of tools like the Air Quality Index (AQI) and Water Quality Index (WQI). Continuous monitoring of air and water quality facilitates the development of these indices, enabling clear communication about the cleanliness or healthiness of the environment to the public.]
 
 **Flowchart:**
 
 [Problem selection --> Data Collection --> Information Collection --> Data Filtration --> HTML code --> Real time view work --> CSS & Website Deployment]
+
 **Source_Code**
 
 <!DOCTYPE html>
@@ -66,5 +67,6 @@ Number: [CBP02] Title: [Air and water quality index and environment monitoring]
                             <p class="text-base">Promote collective efforts in preventing and controlling air and water
                                 pollution due to anthropogenic activities.</p>
                         </div>
+                        
 **for full source code and web_page please open this link;
 [https://shorturl.at/apuMS](url)**
